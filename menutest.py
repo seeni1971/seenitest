@@ -1,6 +1,6 @@
 from tkinter import * 
 from tkinter.ttk import * 
-#from tkinter.dnd import Tester as DragWindow, Icon as Dragable
+#from tkinter.dnd import Tester as DragWindow,Icon as Dragable
 from time import strftime 
   
 # creating tkinter window 
